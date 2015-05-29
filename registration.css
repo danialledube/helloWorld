@@ -1,0 +1,20 @@
+.hidden {
+	display:none;
+	visibility:hidden;
+}
+.required {
+	color:#FF0000;
+}
+label {
+	width:160px;
+	float:left;
+	text-align:right;
+	line-height:18px;
+	color:#414141;
+	font-size:95%;
+	margin-right:5px;
+}
+input#submit {
+	font-size:95%;
+	margin-left:165px;
+}
